@@ -15,4 +15,4 @@ I here combine food inspection data from City of Chicago data portal with yelp d
 ##Dine in yelp best rated chinese restaurants...
 ###Are you interested in a restaurant with 1250 reviews and 4.0 score? What about if you are told of 9 fails from total 28 inspections since 2012?
 
-Among 20 best rated chinese restaurant in chintown area, MINGHIN CUISINE is most reviewed at yelp with an average 4.0 score. It is also the most frequently inspected, totally 28 inspections in the last five years, half of them were due to complaints. 3 out of 9 overall failed inspections were conducted since 2015. 
+Among 20 best rated chinese restaurant in chinatown area, MINGHIN CUISINE is most reviewed at yelp with an average 4.0 score. It is also the most frequently inspected, totally 28 inspections in the last five years, half of them were due to complaints. 3 out of 9 overall failed inspections were conducted since 2015. 
