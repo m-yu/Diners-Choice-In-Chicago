@@ -24,8 +24,8 @@ Overall, 3 restaurants with score 4.5-5 passed all inspections since 2015. Some 
 
 Among 20 best rated chinese restaurant in chinatown area, MINGHIN CUISINE is most reviewed at yelp with an average 4.0 score. It is also the most frequently inspected, totally 28 inspections in the last five years, half of them were due to complaints. 3 out of 9 overall failed inspections were conducted since 2015. Followings are two failed inspections and their violations.  
 
-- Canvass Inspection 1621342 on 01/29/2016, "OBSERVED 30 PLUS DROPPINGS ON AND UNDER THE SHELVING NEAR THE WASHER AND DRYER IN THE UPSTAIRS UTENSIL WASHING AREA AND ON THE FLOOR. INSTRUCTED TO ELIMINATE RODENT ACTIVITY AND CLEAN ALL AFFECTED AREAS."
+- Canvass inspection 1621342 on 01/29/2016, "OBSERVED 30 PLUS DROPPINGS ON AND UNDER THE SHELVING NEAR THE WASHER AND DRYER IN THE UPSTAIRS UTENSIL WASHING AREA AND ON THE FLOOR. INSTRUCTED TO ELIMINATE RODENT ACTIVITY AND CLEAN ALL AFFECTED AREAS."
 
 - Inspection 1583335 due to complaint on 10/22/2015, "INADEQUATE PEST CONTROL, FOUND OVER 40 MOUSE DROPPINGS ALONG WALL BASE IN 2ND FLOOR KITCHEN, ABOUT 30 LIVE FRUIT FLIES IN 1ST FLOOR KITCHEN." 
 
-Good news for MINGHIN CUISINE's diners: they have corrected the rodent issue, and passed the most recent inspection on 02/05/2016.
+Good news for MINGHIN CUISINE's diners: they have corrected the rodent and insect issue, and passed the most recent inspection on 02/05/2016.
