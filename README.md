@@ -6,7 +6,8 @@ Chicago has thousands of restaurants failed health inspection every year accordi
 
 Chicago department of public health conduct inspections routinely as well as complaint-baed inspections. each year, CDPH receives 4,000 complaints against food establishments. About 17% of total inspections is in response to complaints. Particularly, 0.6% of total inspections is related to food poisoning.
 
-![InspectionType](https://github.com/m-yu/DinersChoiceInChicago/blob/master/InspectionType.png "InspectionType")
+![InspectionType](https://github.com/m-yu/DinersChoiceInChicago/blob/master/InspectionType.png "Inspection"= 516x140)
+
 ![Complaints](https://github.com/m-yu/DinersChoiceInChicago/blob/master/complaints.png "Complaints")
 
 Yelp has a new feature since Oct. 2015 for city of San Francisco that each restaurant is given a health inspection score with past inspections and violations listed and any restaurants residing in bottom 5 percent of food safety rating will be overlaid with a pop-up warning message. This feature is expected to be expanded nationwide.
@@ -15,7 +16,7 @@ According to the Economic Journal, an extra half star rating on Yelp boosts busi
 
 I here combine food inspection data from City of Chicago data portal with yelp data through Yelp API to understand the correlation between city food inspection and yelp review score. 
 
-##Dine in yelp best rated chinese restaurants...
+## Dine in yelp best rated chinese restaurants...
 ###Are you interested in a restaurant with 1250 reviews and 4.0 score? What about if you are told that it failed 9 times of total 28 inspections since 2012?
 ![BestRatedChinese](https://github.com/m-yu/DinersChoiceInChicago/blob/master/BestRatedChinese.png "Yelp best rated Chinese restaurant at Chicago Chinatown with food inspection results")
 ![BestRatedChinese](https://github.com/m-yu/DinersChoiceInChicago/blob/master/BestRatedChineseInspections.png "Yelp best rated Chinese restaurant at Chicago Chinatown with food inspection results")
