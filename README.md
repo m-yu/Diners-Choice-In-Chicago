@@ -11,9 +11,7 @@ Chicago department of public health conduct inspections routinely as well as com
 <img src="https://github.com/m-yu/DinersChoiceInChicago/blob/master/InspectionType.png"  width="400"  />
 <img src="https://github.com/m-yu/DinersChoiceInChicago/blob/master/complaints.png"  width="400"  />
 
-In this work, I combine yelp data through Yelp API with food inspection data from City of Chicago data portal to understand the correlation between yelp review score and city food inspection.
-
-Study has been given to two interesting areas: 1. Chinatown area 2. Downtown area
+In this work, I combine yelp data through Yelp API with food inspection data from City of Chicago data portal to understand the correlation between yelp review score and city food inspection. Two interesting areas have been studied: 1. Chinatown area; 2. Downtown area.
 
 ## Dine in yelp best rated chinese restaurants...
 #### Are you interested in a restaurant with 1250 reviews and 4.0 score? What about if you are told that it failed 9 times of total 28 inspections since 2012?
@@ -40,3 +38,10 @@ Among 20 best rated chinese restaurant in chinatown area, MINGHIN CUISINE is mos
 Good news for MINGHIN CUISINE's diners: they have corrected above issues, and passed the most recent inspection on 02/05/2016.
 
 ## Dine in yelp best rated downtown restaurants...
+<img src="https://github.com/m-yu/Diners-Choice-In-Chicago/blob/master/Best_rated_downtown_restaurants.png"  align="center" width="800"  />
+
+Top blue line gives number of reviews for Yelp selected best rated restaurants in downtown area. Correspending red line shows number of complaint-related inspections these resetaurant received. These two curves are highly correlated with correlation coefficient 0.54.
+
+The averaged number of inspections for yelp review score 4.5 and score 4 restaurants are 6.4 and 8.6, respectively. While these two groups of restaurants get the same inspection passing rate of 92%. 
+
+In conclusion, popular restaurants with large number of yelp reviews are more likely to receive complaint-related inspections.  
