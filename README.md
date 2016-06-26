@@ -6,7 +6,6 @@ Chicago has thousands of restaurants failed health inspection every year accordi
 
 Chicago department of public health conduct inspections routinely as well as complaint-baed inspections. each year, CDPH receives 4,000 complaints against food establishments. About 17% of total inspections is in response to complaints. Particularly, 0.6% of total inspections is related to food poisoning.
 <img src="https://github.com/m-yu/DinersChoiceInChicago/blob/master/InspectionType.png"  width="400"  />
-
 <img src="https://github.com/m-yu/DinersChoiceInChicago/blob/master/complaints.png"  width="400"  />
 
 
@@ -18,8 +17,13 @@ I here combine food inspection data from City of Chicago data portal with yelp d
 
 ## Dine in yelp best rated chinese restaurants...
 ###Are you interested in a restaurant with 1250 reviews and 4.0 score? What about if you are told that it failed 9 times of total 28 inspections since 2012?
-![BestRatedChinese](https://github.com/m-yu/DinersChoiceInChicago/blob/master/BestRatedChinese.png "Yelp best rated Chinese restaurant at Chicago Chinatown with food inspection results")
+<!---![BestRatedChinese](https://github.com/m-yu/DinersChoiceInChicago/blob/master/BestRatedChinese.png "Yelp best rated Chinese restaurant at Chicago Chinatown with food inspection results")
 ![BestRatedChinese](https://github.com/m-yu/DinersChoiceInChicago/blob/master/BestRatedChineseInspections.png "Yelp best rated Chinese restaurant at Chicago Chinatown with food inspection results")
+--->
+
+<img src="https://github.com/m-yu/DinersChoiceInChicago/blob/master/BestRatedChinese.png"  align="center" width="600"  />
+<img src="https://github.com/m-yu/DinersChoiceInChicago/blob/master/BestRatedChineseInspections.png"  align="center" width="600"  />
+
 
 Overall, 3 restaurants with score 4.5-5 passed all inspections since 2015. Some restaurants with score 4 received frequent inspections and failed many times. Generally speaking, restaurants with score 4 do not perform better in food inspections comparing to those with score 3.5.
 
