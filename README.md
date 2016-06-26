@@ -5,6 +5,7 @@ Centers for Disease Control estimates that each year roughly 1 in 6 Americans ge
 Chicago has thousands of restaurants failed health inspection every year according to City of Chicago data. From 2010 up to now, there have been about 20K total inspections each year, about 19% failed. Majority of failed inspection exposes customers to little risk and may be corrected immediately while critical violations create a health hazard carrying a high risk of food-borne illness.
 
 Chicago department of public health conduct inspections routinely as well as complaint-baed inspections. each year, CDPH receives 4,000 complaints against food establishments. About 17% of total inspections is in response to complaints. Particularly, 0.6% of total inspections is related to food poisoning.
+
 <img src="https://github.com/m-yu/DinersChoiceInChicago/blob/master/InspectionType.png"  width="400"  />
 <img src="https://github.com/m-yu/DinersChoiceInChicago/blob/master/complaints.png"  width="400"  />
 
